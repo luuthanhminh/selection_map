@@ -195,7 +195,12 @@ class MethodChannelMapboxGl extends MapboxGlPlatform {
       'enabled': enabled,
     });
   }
-
+  @override
+  Future<void> drawPolygonFeature({Map<String, dynamic> geoJson}) async {
+    await _channel.invokeMethod('map#drawPolygon', <String, dynamic>{
+      'geoJson': geoJson,
+    });
+  }
   @override
   Future<bool> getTelemetryEnabled() async {
     return await _channel.invokeMethod('map#getTelemetryEnabled');

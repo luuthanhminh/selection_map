@@ -157,6 +157,10 @@ abstract class MapboxGlPlatform {
     throw UnimplementedError('getSymbolLatLng() has not been implemented.');
   }
 
+  Future<void> drawPolygonFeature({Map<String, dynamic> geoJson}) async {
+    throw UnimplementedError('drawPolygonFeature() has not been implemented.');
+
+  }
   Future<List<LatLng>> getLineLatLngs(Line line) async {
     throw UnimplementedError('getLineLatLngs() has not been implemented.');
   }

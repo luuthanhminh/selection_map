@@ -31,10 +31,15 @@ dependencies:
   flutter_screenutil: ^3.2.0
   syncfusion_flutter_maps: ^18.4.32-beta
 
+dependency_overrides:
+  mapbox_gl_platform_interface:
+    path: ../mapbox/mapbox_gl_platform_interface
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  mapbox_gl:
+    path: ../mapbox
 
 
   

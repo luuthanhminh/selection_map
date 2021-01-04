@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-part of mapbox_gl;
+part of mapbox_gl_platform_interface;
 
 typedef void OnMapClickCallback(Point<double> point, LatLng coordinates);
 typedef void OnMapLongClickCallback(Point<double> point, LatLng coordinates);
@@ -270,6 +270,10 @@ class MapboxMapController extends ChangeNotifier {
     return MapboxGlPlatform.getInstance(_id).animateCamera(cameraUpdate);
   }
 
+  Future<void> drawPolygonFeature({Map<String, dynamic> geoJson}) async {
+    assert(geoJson != null);
+    return MapboxGlPlatform.getInstance(_id).drawPolygonFeature(geoJson: geoJson);
+}
   /// Instantaneously re-position the camera.
   /// Note: moveCamera() quickly moves the camera, which can be visually jarring for a user. Strongly consider using the animateCamera() methods instead because it's less abrupt.
   ///

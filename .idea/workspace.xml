@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec9e376a-a66b-4f7c-9dfa-05ff97fbdf52" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/mapbox/lib/mapbox_gl.dart" beforeDir="false" afterPath="$PROJECT_DIR$/mapbox/lib/mapbox_gl.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapbox/lib/src/controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/mapbox/lib/src/controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapbox/lib/src/global.dart" beforeDir="false" afterPath="$PROJECT_DIR$/mapbox/lib/src/global.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapbox/lib/src/mapbox_map.dart" beforeDir="false" afterPath="$PROJECT_DIR$/mapbox/lib/src/mapbox_map.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapbox/mapbox_gl_platform_interface/lib/src/mapbox_gl_platform_interface.dart" beforeDir="false" afterPath="$PROJECT_DIR$/mapbox/mapbox_gl_platform_interface/lib/src/mapbox_gl_platform_interface.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapbox/mapbox_gl_platform_interface/lib/src/method_channel_mapbox_gl.dart" beforeDir="false" afterPath="$PROJECT_DIR$/mapbox/mapbox_gl_platform_interface/lib/src/method_channel_mapbox_gl.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapbox/mapbox_gl_web/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapbox/mapbox_gl_web/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapbox/mapbox_gl_web/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapbox/mapbox_gl_web/ios/mapbox_gl_web.podspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapbox/mapbox_gl_web/lib/mapbox_gl_web.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapbox/mapbox_gl_web/lib/src/convert.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapbox/mapbox_gl_web/lib/src/feature_manager/circle_manager.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapbox/mapbox_gl_web/lib/src/feature_manager/feature_manager.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapbox/mapbox_gl_web/lib/src/feature_manager/line_manager.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapbox/mapbox_gl_web/lib/src/feature_manager/symbol_manager.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapbox/mapbox_gl_web/lib/src/mapbox_map_controller.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapbox/mapbox_gl_web/lib/src/mapbox_map_plugin.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapbox/mapbox_gl_web/lib/src/options_sink.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapbox/mapbox_gl_web/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapbox/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/mapbox/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selection_demo/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/selection_demo/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selection_demo/.flutter-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/selection_demo/.flutter-plugins" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selection_demo/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/selection_demo/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selection_demo/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/selection_demo/.packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selection_demo/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/selection_demo/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selection_demo/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/selection_demo/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mawyeFSHAYyE92o9ff3lzPuOU8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/selection_demo/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/selection_demo/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec9e376a-a66b-4f7c-9dfa-05ff97fbdf52" name="Default Changelist" comment="" />
+      <created>1609745265829</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609745265829</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="93" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609747233254">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="184" y="93" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.814@0.23.1440.814" timestamp="1609747233254" />
+    <state x="457" y="228" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1609747181349">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="457" y="228" key="#com.intellij.ide.util.TreeFileChooserDialog/0.23.1440.814@0.23.1440.814" timestamp="1609747181349" />
+    <state x="221" y="70" key="SettingsEditor" timestamp="1609747230910">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="221" y="70" key="SettingsEditor/0.23.1440.814@0.23.1440.814" timestamp="1609747230910" />
+    <state x="412" y="186" width="615" height="490" key="find.popup" timestamp="1609747294424">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="412" y="186" width="615" height="490" key="find.popup/0.23.1440.814@0.23.1440.814" timestamp="1609747294424" />
+  </component>
+</project>
