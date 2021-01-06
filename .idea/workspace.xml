@@ -2,33 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec9e376a-a66b-4f7c-9dfa-05ff97fbdf52" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/mapbox/lib/mapbox_gl.dart" beforeDir="false" afterPath="$PROJECT_DIR$/mapbox/lib/mapbox_gl.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapbox/lib/src/controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/mapbox/lib/src/controller.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapbox/lib/src/global.dart" beforeDir="false" afterPath="$PROJECT_DIR$/mapbox/lib/src/global.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapbox/lib/src/mapbox_map.dart" beforeDir="false" afterPath="$PROJECT_DIR$/mapbox/lib/src/mapbox_map.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapbox/mapbox_gl_platform_interface/lib/src/mapbox_gl_platform_interface.dart" beforeDir="false" afterPath="$PROJECT_DIR$/mapbox/mapbox_gl_platform_interface/lib/src/mapbox_gl_platform_interface.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapbox/mapbox_gl_platform_interface/lib/src/method_channel_mapbox_gl.dart" beforeDir="false" afterPath="$PROJECT_DIR$/mapbox/mapbox_gl_platform_interface/lib/src/method_channel_mapbox_gl.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapbox/mapbox_gl_web/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapbox/mapbox_gl_web/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapbox/mapbox_gl_web/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapbox/mapbox_gl_web/ios/mapbox_gl_web.podspec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapbox/mapbox_gl_web/lib/mapbox_gl_web.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapbox/mapbox_gl_web/lib/src/convert.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapbox/mapbox_gl_web/lib/src/feature_manager/circle_manager.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapbox/mapbox_gl_web/lib/src/feature_manager/feature_manager.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapbox/mapbox_gl_web/lib/src/feature_manager/line_manager.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapbox/mapbox_gl_web/lib/src/feature_manager/symbol_manager.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapbox/mapbox_gl_web/lib/src/mapbox_map_controller.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapbox/mapbox_gl_web/lib/src/mapbox_map_plugin.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapbox/mapbox_gl_web/lib/src/options_sink.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapbox/mapbox_gl_web/pubspec.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapbox/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/mapbox/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selection_demo/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/selection_demo/.dart_tool/package_config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selection_demo/.flutter-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/selection_demo/.flutter-plugins" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/selection_map.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/selection_map.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapbox/example/lib/generated_plugin_registrant.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapbox/example/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/mapbox/example/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapbox/ios/Classes/MapboxMapController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/mapbox/ios/Classes/MapboxMapController.swift" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/selection_demo/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/selection_demo/.flutter-plugins-dependencies" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selection_demo/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/selection_demo/.packages" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selection_demo/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/selection_demo/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selection_demo/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/selection_demo/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selection_demo/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" beforeDir="false" afterPath="$PROJECT_DIR$/selection_demo/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selection_demo/ios/Flutter/.last_build_id" beforeDir="false" afterPath="$PROJECT_DIR$/selection_demo/ios/Flutter/.last_build_id" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selection_demo/ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/selection_demo/ios/Podfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selection_demo/lib/ui/pages/home/home_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/selection_demo/lib/ui/pages/home/home_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selection_demo/lib/ui/view/mapbox.dart" beforeDir="false" afterPath="$PROJECT_DIR$/selection_demo/lib/ui/view/mapbox.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +32,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="flutter.settings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
@@ -83,6 +70,26 @@
       <screen x="0" y="23" width="1440" height="814" />
     </state>
     <state x="457" y="228" key="#com.intellij.ide.util.TreeFileChooserDialog/0.23.1440.814@0.23.1440.814" timestamp="1609747181349" />
+    <state width="458" height="452" key="DebuggerActiveHint" timestamp="1609753282839">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="458" height="452" key="DebuggerActiveHint/0.23.1440.816@0.23.1440.816" timestamp="1609753282839" />
+    <state width="1398" height="135" key="GridCell.Tab.0.bottom" timestamp="1609829067594">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="135" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1609829067594" />
+    <state width="1398" height="135" key="GridCell.Tab.0.center" timestamp="1609829067593">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="135" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1609829067593" />
+    <state width="1398" height="135" key="GridCell.Tab.0.left" timestamp="1609829067593">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="135" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1609829067593" />
+    <state width="1398" height="135" key="GridCell.Tab.0.right" timestamp="1609829067593">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="135" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1609829067593" />
     <state x="221" y="70" key="SettingsEditor" timestamp="1609747230910">
       <screen x="0" y="23" width="1440" height="814" />
     </state>

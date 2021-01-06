@@ -6,8 +6,10 @@
       <excludeFolder url="file://$MODULE_DIR$/mapbox/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/mapbox/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/mapbox/build" />
+      <excludeFolder url="file://$MODULE_DIR$/mapbox/example/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/mapbox/example/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/mapbox/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/mapbox/mapbox_gl_platform_interface/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/mapbox/mapbox_gl_platform_interface/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/mapbox/mapbox_gl_platform_interface/build" />
       <excludeFolder url="file://$MODULE_DIR$/mapbox/mapbox_gl_web/.pub" />
@@ -15,12 +17,25 @@
       <excludeFolder url="file://$MODULE_DIR$/selection_demo/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/selection_demo/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/selection_demo/build" />
+      <excludeFolder url="file://$MODULE_DIR$/selection_demo/ios/.symlinks/plugins/flutter_statusbarcolor/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/selection_demo/ios/.symlinks/plugins/flutter_statusbarcolor/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/selection_demo/ios/.symlinks/plugins/flutter_statusbarcolor/build" />
+      <excludeFolder url="file://$MODULE_DIR$/selection_demo/ios/.symlinks/plugins/flutter_statusbarcolor/example/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/selection_demo/ios/.symlinks/plugins/flutter_statusbarcolor/example/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/selection_demo/ios/.symlinks/plugins/flutter_statusbarcolor/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/selection_demo/ios/.symlinks/plugins/mapbox_gl/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/selection_demo/ios/.symlinks/plugins/mapbox_gl/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/selection_demo/ios/.symlinks/plugins/mapbox_gl/build" />
+      <excludeFolder url="file://$MODULE_DIR$/selection_demo/ios/.symlinks/plugins/mapbox_gl/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/selection_demo/ios/.symlinks/plugins/mapbox_gl/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/selection_demo/ios/.symlinks/plugins/mapbox_gl/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/selection_demo/ios/.symlinks/plugins/mapbox_gl/mapbox_gl_platform_interface/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/selection_demo/ios/.symlinks/plugins/mapbox_gl/mapbox_gl_platform_interface/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/selection_demo/ios/.symlinks/plugins/mapbox_gl/mapbox_gl_platform_interface/build" />
+      <excludeFolder url="file://$MODULE_DIR$/selection_demo/ios/.symlinks/plugins/shared_preferences/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/selection_demo/ios/.symlinks/plugins/shared_preferences/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/selection_demo/ios/.symlinks/plugins/shared_preferences/build" />
+      <excludeFolder url="file://$MODULE_DIR$/selection_demo/ios/.symlinks/plugins/shared_preferences/example/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/selection_demo/ios/.symlinks/plugins/shared_preferences/example/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/selection_demo/ios/.symlinks/plugins/shared_preferences/example/build" />
     </content>

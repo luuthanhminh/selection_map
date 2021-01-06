@@ -21,8 +21,8 @@ class _MapBoxWidgetState extends State<MapBoxWidget> {
     return ViewModelBuilder<HomeViewModel>.nonReactive(builder: (BuildContext context, HomeViewModel viewModel, _) {
       return MapboxMap(
         minMaxZoomPreference: MinMaxZoomPreference.unbounded,
-        styleString: 'mapbox://styles/hiennguyen92/ckizibco90v1u19o3gxs86dhz',
-        accessToken: 'pk.eyJ1IjoiaGllbm5ndXllbjkyIiwiYSI6ImNraXppOWtmdzJlaHczMnJ4YmJ5dHNnbDIifQ.-exf9_eXTUOJkVaIeawyAQ',
+        styleString: 'mapbox://styles/duong236/ckjingw6rd3s219p1epfmubfu',
+        accessToken: 'pk.eyJ1IjoiZHVvbmcyMzYiLCJhIjoiY2tpbDV0aGZ1MDI2MzJxcDM5Ymh2NWJqayJ9.we7o5gtM_vH5BaodWPymAQ',
         onMapCreated: _onMapCreated,
         rotateGesturesEnabled: false,
         onMapClick: (e,a) {
@@ -39,9 +39,9 @@ class _MapBoxWidgetState extends State<MapBoxWidget> {
         },
       );
     }, viewModelBuilder: () => HomeViewModel(), onModelReady: (model) async {
-     final String geoJson = await model.getGeoJson();
+     final String geoJson = await model.getGeoJsonUnited();
      final Map decode = jsonDecode(geoJson);
-      // mapController.drawPolygonFeature(geoJson: <String, dynamic>{'geoJson': decode});
+      mapController.drawPolygonFeature(geoJson: <String, dynamic>{'geoJson': decode});
 
     });
   }
